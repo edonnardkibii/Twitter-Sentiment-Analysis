@@ -23,4 +23,7 @@ access_token = <access token>
 access_token_secret = <access token secret>
 ````
 
-Do not give anyone access to these credentials, as they will gain **full access** to your Twitter account without needing to know your twitter handle or your password
+Do not give anyone access to these credentials, as they will gain **full access** to your Twitter account without needing to know your twitter handle or your password.
+
+#Automation
+You can use a task scheduler to run a batch file on your Windows Server/Computer (see example under automate), or a cron job for linux
